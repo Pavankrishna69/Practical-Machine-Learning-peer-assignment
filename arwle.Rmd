@@ -1,6 +1,6 @@
 ---
 title: "Activity Recognition of Weight Lifting Exercises - Simple implimentation with R"
-author: "Anik Mallick"
+author: "Pavan Krishna"
 date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
@@ -517,4 +517,5 @@ This time I did better. May be because the test size is so small my previous mod
 * [Download Training data](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv)
 * [Download Test data](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv)
 * [Qualitative Activity Recognition of Weight Lifting Exercises - Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H](http://groupware.les.inf.puc-rio.br/work.jsf?p1=11201)  
+
 
